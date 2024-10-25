@@ -32,6 +32,29 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 2,
+      "category": "health",
+      "title": "Blood Donation Camp",
+      "description": "Donate blood and save lives.",
+      "location": "City Hospital",
+      "date": "February 14, 2022",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Health Organization"
     }
+
   ]
 }
